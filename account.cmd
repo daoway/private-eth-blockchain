@@ -1,0 +1,1 @@
+geth --datadir "./data" js account.js

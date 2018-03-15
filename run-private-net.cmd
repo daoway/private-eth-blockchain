@@ -1,0 +1,1 @@
+start geth --datadir "./data" --rpcapi="db,eth,net,admin,personal,web3,miner" --rpc --rpcport "7545" --rpccorsdomain "*" --nodiscover --unlock 0 --mine --ipcdisable 

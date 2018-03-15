@@ -1,0 +1,1 @@
+geth --datadir "./data" init CustomGenesis.json
