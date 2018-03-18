@@ -1,0 +1,1 @@
+geth --fast --cache=2048 --datadir "G:\eth-blockchain"
